@@ -1,2 +1,4 @@
 # odin-recipes
-The Odin Project recipes project
+Small HTML project showcasing different reicpes.
+The project will demonstrate knowledge of basic HTML
+skill.
