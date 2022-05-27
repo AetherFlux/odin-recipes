@@ -1,0 +1,29 @@
+body {
+    background-color: darkgray;
+}
+
+h1,
+h2,
+h3,
+p,
+a,
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.home-btn {
+    background-color: teal;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+}
